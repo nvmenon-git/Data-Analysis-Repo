@@ -1,5 +1,8 @@
 # Air Quality Analysis
 
+## Aim
+This project is designed to demonstrate expertise in data retrieval, cleaning, processing, analysis, and visualization, as well as extracting insights from these visualizations and analyses. It includes comprehensive explanations for each step undertaken. Beginners may find it useful for learning fundamental skills in the Data Analytics field and can use it as a foundation for further study.
+
 ## Project Description
 This project analyzes the levels of PM2.5 and O3 in Beijing and Frankfurt over the last three years, comparing the data between weekdays and weekends.
 
